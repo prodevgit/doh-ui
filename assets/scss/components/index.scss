@@ -32,8 +32,16 @@
   padding-left: 25px;
 }
 
+.grpah-bottom {
+  text-align: center;
+  font-size: 12px;
+  color: #6b949b;
+  margin: 0;
+}
+
 @import "buttons";
 @import "navbar";
 @import "tiles";
 @import "circle-progress";
 @import "selector";
+@import "modal";

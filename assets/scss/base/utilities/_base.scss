@@ -118,11 +118,9 @@ button {
   }
 }
 .modal-dialog{
-  display: flex;
-  align-items: center;
-  justify-content: center;
   margin: 0 auto;
   height: 100%;
+  margin-top: 50px;
 }
 
 @include tablet-desktop {
