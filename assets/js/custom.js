@@ -114,7 +114,6 @@ document.addEventListener("click", closeAllSelect);
           ? $target.data("duration")
           : DEFAULTS.duration,
       };
-      // console.log(opts);
 
       $target.append(
         '<div class="background"></div><div class="rotate"></div><div class="left"></div><div class="right"></div><div class=""><span class="circle-inner"><span class="per">' +
